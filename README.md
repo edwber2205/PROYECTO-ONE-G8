@@ -2,4 +2,4 @@
 
 * Estado del proyecto: en cosntrucción 
 
-'''npm install rect'''
+````npm install rect````
