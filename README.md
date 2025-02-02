@@ -3,3 +3,5 @@
 * Estado del proyecto: en cosntrucción 
 
 ````npm install rect````
+
+Sistema de registro 2
